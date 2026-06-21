@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ahkeeshan 👋</h1>
 
-<p align="center">A final-year IT student who builds AI apps to solve real problems.</p>
+<p align="center">A Master of IT graduate who builds AI apps to solve real problems.</p>
 
 <p align="center">
   <a href="mailto:sakeesan4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -14,15 +14,15 @@
 
 I like building things that people actually use. Most of my projects start from a problem I've run into myself, and I build an AI product around it and take it all the way to something that works.
 
-Right now I'm finishing my IT degree and spending most of my time on machine learning and LLM apps. I work in Python for the AI side, and TypeScript with React Native for the product side.
+I recently finished my Master of Information Technology, and I'm ready to start full-time. I spend most of my time on machine learning and LLM apps, working in Python for the AI side and TypeScript with React Native for the product side.
 
 The best way to reach me is sakeesan4@gmail.com.
 
 ### Projects I'm proud of
 
-**[MediChat AI](https://github.com/akeeshh/medichat-ai)** is a multimodal clinical companion. You chat about your health in plain language, upload scans, lab reports and prescriptions, and it reads chest X-rays, transcribes handwritten scripts, keeps your health records, and remembers your history between chats. It was my final-year group project and I led the team.
+**[MediChat AI](https://github.com/akeeshh/medichat-ai)** is a multimodal clinical companion. You chat about your health in plain language, upload scans, lab reports and prescriptions, and it reads chest X-rays, transcribes handwritten scripts, keeps your health records, and remembers your history between chats. I designed and built it solo, end to end.
 
-> Python, Streamlit, multimodal LLMs, computer vision, RAG, OCR
+> Python, Streamlit, multimodal LLMs, computer vision, RAG, OCR, Firebase
 
 **[VOYA](https://github.com/akeeshh/voya)** is a voice-first navigation app for delivery drivers. I do food delivery, and typing addresses while driving is unsafe, so I built an AI co-pilot you can talk to. You say where you want to go, it works out the destination, finds a route, and guides you with in-app turn-by-turn navigation and spoken directions.
 
@@ -53,4 +53,4 @@ Product: React Native, Expo, Streamlit, Node.js, REST APIs
 
 ---
 
-<p align="center">I'm open to AI, machine learning and software engineering roles. If you're hiring and any of this looks useful, I'd love to talk.</p>
+<p align="center">I just finished my Master of IT and I'm ready to start. I'm open to AI, machine learning and software engineering roles, so if you're hiring and any of this looks useful, I'd love to talk.</p>
